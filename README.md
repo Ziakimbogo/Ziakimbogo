@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/anis-guechetouli/anis-guechetouli/blob/main/gif.gif?raw=true" alt="Coding" width="700" height="400" />
+  <img src="https://github.com/Ziakimbogo/Ziakimbogo/blob/main/gif.gif?raw=true" alt="Coding" width="700" height="400" />
 </div>
 
 <div align="center">
@@ -78,7 +78,7 @@
       </tr>
       <tr>
         <th style="padding: 20px; text-align: center;">
-          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=anis-guechetouli&theme=ambient_gradient">
+          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=Ziakimbogo&theme=ambient_gradient">
             <img src="https://github-readme-stats.vercel.app/api?username=Ziakimbogo&theme=ambient_gradient" style="width: 24.5em; height: 14em; object-fit: contain;" />
           </a>
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziakimbogo&theme=ambient_gradient" style="width: 24.5em; height: 14em; object-fit: contain;" alt="Top Languages" />
