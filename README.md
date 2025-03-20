@@ -25,11 +25,8 @@
 <div align="center">
   <h2>🌟 Let's Connect & Code Together! 🌟</h2>
   <br><br>
-  <a href="https://www.linkedin.com/in/anis-guechetouli-583b79286">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:anisguechetouli5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://discordapp.com/users/ziakimbogo">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
@@ -85,9 +82,9 @@
       <tr>
         <th style="padding: 20px; text-align: center;">
           <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=anis-guechetouli&theme=ambient_gradient">
-            <img src="https://github-readme-stats.vercel.app/api?username=anis-guechetouli&theme=ambient_gradient" style="width: 24.5em; height: 14em; object-fit: contain;" />
+            <img src="https://github-readme-stats.vercel.app/api?username=Ziakimbogo&theme=ambient_gradient" style="width: 24.5em; height: 14em; object-fit: contain;" />
           </a>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-guechetouli&theme=ambient_gradient" style="width: 24.5em; height: 14em; object-fit: contain;" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziakimbogo&theme=ambient_gradient" style="width: 24.5em; height: 14em; object-fit: contain;" alt="Top Languages" />
         </th>
       </tr>
     </thead>
