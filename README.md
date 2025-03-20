@@ -1,11 +1,12 @@
 <div align="center">
   <img src="https://github.com/anis-guechetouli/anis-guechetouli/blob/main/gif.gif?raw=true" alt="Coding" width="700" height="400" />
+</div>
 
+<h3 align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FD35FF&width=435&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Ziakimbo" alt="Typing SVG" style="display:block; margin: 0 auto;" />
 </a>
-</div>
-
+</h3>
 <h3 align="center">✨ Code Enthusiast & Digital Explorer ✨</h3>
 
 <div align="center">
